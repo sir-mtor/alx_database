@@ -1,4 +1,4 @@
---intro to database on sql__
+--intro to database on sql
 # MySQL connection details
 MYSQL_USER="sir2code"
 MYSQL_PASSWORD="(1234567890)"

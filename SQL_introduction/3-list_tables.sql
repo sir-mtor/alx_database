@@ -1,3 +1,3 @@
 -- listing tables
-USE [your_database_name];
+USE [sir2code];
 SHOW TABLES;

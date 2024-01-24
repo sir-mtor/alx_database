@@ -1,3 +1,3 @@
 -- listing tables
-USE [database_name];
+USE [new_local];
 SHOW TABLES;

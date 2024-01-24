@@ -1,3 +1,3 @@
 -- listing tables
-USE [sir2code];
+USE [sir2codeX];
 SHOW TABLES;

@@ -1,3 +1,4 @@
+-- remove database
 # MySQL connection details
 MYSQL_USER="sir2code"
 MYSQL_PASSWORD="(1234567890)"

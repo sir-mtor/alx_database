@@ -1,2 +1,2 @@
 --list values on mysql
-SELECT * FROM ; 
+SELECT * FROM first_table;

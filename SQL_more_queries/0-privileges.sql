@@ -1,3 +1,4 @@
+-- starting with a comment 
 # MySQL connection details
 HOST="localhost"
 USER="root"

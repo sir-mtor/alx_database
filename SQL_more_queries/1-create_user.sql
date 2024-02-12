@@ -1,3 +1,4 @@
 -- root project
 SHOW GRANT FOR 'user_0d_1'@'localhost';
- USER IF NOT EXISTS 'user_0d_1'@'localhost' IDENTIFIED BY 'user_0d_1_pwd';
+-- Check the user_0d_1 password
+SELECT host, user, authentication_string FROM mysql.user WHERE user = 'user_0d_1';

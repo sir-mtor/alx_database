@@ -1,4 +1,3 @@
 -- starting with a comment 
-HOST="localhost"
-USER="root"
-PASSWORD="your_root_password"
+SHOW GRANTS FOR 'user_0d_1'@'localhost';
+SHOW GRANTS FOR 'user_0d_2'@'localhost';

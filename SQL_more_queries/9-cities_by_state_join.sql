@@ -1,5 +1,4 @@
 -- cities
-
 # MySQL connection details
 HOST="localhost"
 USER="root"
